@@ -24,6 +24,7 @@ module "my_data_lake_bucket" {
     }
   ]
 }
+```
 
 ---
 
