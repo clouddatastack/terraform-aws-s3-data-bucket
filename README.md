@@ -24,3 +24,15 @@ module "my_data_lake_bucket" {
     }
   ]
 }
+
+---
+
+### Contributing
+
+Feel free to submit issues or pull requests to improve this repository.
+
+---
+
+### License
+
+This project is licensed under the MIT License.
